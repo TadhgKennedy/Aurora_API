@@ -2,7 +2,7 @@
 Aurora application API
 
 # Constraints
-- I was only able to make use of free resource and LLMs so he models are more basic and I run out of calls quickly. This is not as thoroughly tested as I would like.
+- I was only able to make use of free resource and LLMs so the models are more basic and I run out of calls quickly. This is not as thoroughly tested as I would like.
 - I wasn't able to find a way to achieve the 2 second latency. I would be very interested to see how someone achieved this!
 
 # System Architecture
